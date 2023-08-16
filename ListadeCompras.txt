@@ -6,4 +6,4 @@
 
 4.dados de RPG
 
-5.Barbeador dragão
+5.Controle para pc 
